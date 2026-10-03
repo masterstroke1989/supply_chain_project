@@ -1,0 +1,21 @@
+supplier_id,supplier_name,supplier_region,supplier_type,capacity_units,lead_time_days,quality_score
+SUP001,Supplier 1,North America,Strategic,27075,14,0.984
+SUP002,Supplier 2,Asia Pacific,Preferred,5876,22,0.89
+SUP003,Supplier 3,Asia Pacific,Standard,12079,22,0.843
+SUP004,Supplier 4,Europe,Preferred,23077,21,0.955
+SUP005,Supplier 5,Asia Pacific,Standard,10177,25,0.863
+SUP006,Supplier 6,Europe,Strategic,10949,25,0.893
+SUP007,Supplier 7,Latin America,Strategic,23048,28,0.976
+SUP008,Supplier 8,Asia Pacific,Preferred,18407,24,0.941
+SUP009,Supplier 9,Latin America,Strategic,21244,3,0.982
+SUP010,Supplier 10,Asia Pacific,Standard,21964,24,0.944
+SUP011,Supplier 11,Asia Pacific,Preferred,6679,21,0.949
+SUP012,Supplier 12,North America,Strategic,14435,7,0.836
+SUP013,Supplier 13,Europe,Preferred,18245,22,0.85
+SUP014,Supplier 14,Latin America,Preferred,28001,18,0.957
+SUP015,Supplier 15,Latin America,Strategic,28805,7,0.888
+SUP016,Supplier 16,Europe,Preferred,7849,22,0.884
+SUP017,Supplier 17,Europe,Standard,7489,3,0.912
+SUP018,Supplier 18,North America,Standard,21347,29,0.956
+SUP019,Supplier 19,Latin America,Preferred,16938,30,0.842
+SUP020,Supplier 20,North America,Standard,27116,14,0.886
